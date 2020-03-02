@@ -1,0 +1,887 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Cenas/Introducoes/titulo.unity
+    guid: d89363af488ab2646a9c82c82d4ba7ba
+  - enabled: 1
+    path: Assets/Cenas/Introducoes/apresentaAvatar.unity
+    guid: 58aab192d868ab1469bf5872fd97f339
+  - enabled: 1
+    path: Assets/Cenas/Introducoes/avatarCabelo.unity
+    guid: 429cce3399a97c94f8915f24da6e580b
+  - enabled: 1
+    path: Assets/Cenas/Introducoes/avatarLoiro.unity
+    guid: 9865e95df718e16408b28b38c63ea112
+  - enabled: 1
+    path: Assets/Cenas/Introducoes/avatarMoreno.unity
+    guid: 8395e7fcf482d704697ee42e8c327aa8
+  - enabled: 1
+    path: Assets/Cenas/Introducoes/avatarPele.unity
+    guid: cb94b3ccfcddaff4abe9912c945e409b
+  - enabled: 1
+    path: Assets/Cenas/Introducoes/avatarPreto.unity
+    guid: 06e6f0a11d0918d4285a5e5e956d3f55
+  - enabled: 1
+    path: Assets/Cenas/Introducoes/avatarRuivo.unity
+    guid: d1e753a9fc3b9254a9d6cae9708d7741
+  - enabled: 1
+    path: Assets/Cenas/Introducoes/banheiro.unity
+    guid: 80d3e8f8aff99084d9e8102c208816bc
+  - enabled: 1
+    path: Assets/Cenas/Introducoes/biblioteca.unity
+    guid: b02cfdab81560b143a486efc963285b3
+  - enabled: 1
+    path: Assets/Cenas/Introducoes/descricao_game.unity
+    guid: 9dadbb1ad4ea7514ab176cd4ab80877a
+  - enabled: 1
+    path: Assets/Cenas/Introducoes/escola.unity
+    guid: c01e8abe609c62e488816ed7ea0edadb
+  - enabled: 1
+    path: Assets/Cenas/Introducoes/genero.unity
+    guid: c62c5a4e78863844390bf9c258aad0fd
+  - enabled: 1
+    path: Assets/Cenas/Introducoes/idade.unity
+    guid: 3da4e8b550bc24844b7008ce71e7fdd9
+  - enabled: 1
+    path: Assets/Cenas/Introducoes/moradia.unity
+    guid: 923a396072da9fa4bad620e24dc61908
+  - enabled: 1
+    path: Assets/Cenas/PA/introPA.unity
+    guid: c315ab2c2efc2e248a7ad0ee559fc211
+  - enabled: 1
+    path: Assets/Cenas/PA/PA1.unity
+    guid: 43faea290e552124fa49d2c576837f04
+  - enabled: 1
+    path: Assets/Cenas/PA/PA2.unity
+    guid: 5adde306b7605914fadcca1546ed13c2
+  - enabled: 1
+    path: Assets/Cenas/PA/PA3.unity
+    guid: 6b5970124e5e5b840878f022bae2b2a8
+  - enabled: 1
+    path: Assets/Cenas/PA/PA4.unity
+    guid: b7d71f4b50617af49b6115f6029dbf39
+  - enabled: 1
+    path: Assets/Cenas/PA/PA5.unity
+    guid: c2b1f8c1331407d4f9081397d6ee55f8
+  - enabled: 1
+    path: Assets/Cenas/PA/PA6.unity
+    guid: 8efbe3818c34d1b448888dc373a76fca
+  - enabled: 1
+    path: Assets/Cenas/PA/PA7.unity
+    guid: d54c3eaec2c439146be51b23da127a68
+  - enabled: 1
+    path: Assets/Cenas/PA/PA8.unity
+    guid: 8cc44ba44e095544896fd06ed8232344
+  - enabled: 1
+    path: Assets/Cenas/PA/PA9.unity
+    guid: 60ffde1f7ebd858489cc28c4c022aecb
+  - enabled: 1
+    path: Assets/Cenas/PA/PA10.unity
+    guid: 3f0369a566aa6954fb7471a658be6f32
+  - enabled: 1
+    path: Assets/Cenas/PA/PA11.unity
+    guid: 221a49a476e059d42af88caf87a5d5e8
+  - enabled: 1
+    path: Assets/Cenas/PA/PA12.unity
+    guid: 8f33ef4e4fc06b648aab9ebdab8220b7
+  - enabled: 1
+    path: Assets/Cenas/PA/PA13.unity
+    guid: fb8d56fb7b4f51b4eb4bf0068bec6814
+  - enabled: 1
+    path: Assets/Cenas/PA/PA14.unity
+    guid: f92ea7894a5bba64391b010ea036d2f6
+  - enabled: 1
+    path: Assets/Cenas/PA/PA15.unity
+    guid: 96836128d3b38bf4dbf1dec4c86d4ddf
+  - enabled: 1
+    path: Assets/Cenas/PA/PA16.unity
+    guid: 81b25c9348efa1e4ebe83ee39027ebb9
+  - enabled: 1
+    path: Assets/Cenas/PA/PA17.unity
+    guid: b2ed06dfee055834fa73230def4b9a5b
+  - enabled: 1
+    path: Assets/Cenas/PA/PA18.unity
+    guid: 271c9482ef8556841b46af221fb2dafe
+  - enabled: 1
+    path: Assets/Cenas/PA/PA19.unity
+    guid: a66ccae057fce8048b55a31a310a78d5
+  - enabled: 1
+    path: Assets/Cenas/PA/PA20.unity
+    guid: e1aa21519975cce44a230a36c4a79b4c
+  - enabled: 1
+    path: Assets/Cenas/PA/PA21.unity
+    guid: d1cbe35bfaac62540b6ac9caefe3b1b8
+  - enabled: 1
+    path: Assets/Cenas/PA/PA22.unity
+    guid: eaeff14fa38d15e418029082fde9619a
+  - enabled: 1
+    path: Assets/Cenas/PA/PA23.unity
+    guid: 1095f373d1b516246b21af79feabdf85
+  - enabled: 1
+    path: Assets/Cenas/PA/PA24.unity
+    guid: 6b18ca43c9e494a46b446e2405284c59
+  - enabled: 1
+    path: Assets/Cenas/PA/PA25.unity
+    guid: a686a51155355c147bf41ba1889f0ec9
+  - enabled: 1
+    path: Assets/Cenas/PA/PA26.unity
+    guid: cd1bb0ba2596b3542b57eecf297cbc96
+  - enabled: 1
+    path: Assets/Cenas/PA/PA27.unity
+    guid: f09415d9bd16971428703fb901c50485
+  - enabled: 1
+    path: Assets/Cenas/PA/PA28.unity
+    guid: a7352f1280ca3424585fd20d6a126e08
+  - enabled: 1
+    path: Assets/Cenas/PA/PA29.unity
+    guid: f58bb1af4e4cb404bb40e53d280cef78
+  - enabled: 1
+    path: Assets/Cenas/PA/PA30.unity
+    guid: 5ce5e72b9ba5c0848969310bc6d2a942
+  - enabled: 1
+    path: Assets/Cenas/PA/PA31.unity
+    guid: fb970ec3c53d7224c8c7fca3029b8681
+  - enabled: 1
+    path: Assets/Cenas/PA/PA32.unity
+    guid: f89036dacbf12aa40b5a02959c43240a
+  - enabled: 1
+    path: Assets/Cenas/PA/PA33.unity
+    guid: db7581c9181effd4d9342a5ffd5f3ab8
+  - enabled: 1
+    path: Assets/Cenas/PA/PA34.unity
+    guid: 6e2cebe34fde9c74e849ae868212b5f4
+  - enabled: 1
+    path: Assets/Cenas/PA/PA35.unity
+    guid: 869dee58cd26be94c81c3a8aa88fb97c
+  - enabled: 1
+    path: Assets/Cenas/PA/PA36.unity
+    guid: 7d9faa53d495ec241bec65884307a137
+  - enabled: 1
+    path: Assets/Cenas/PA/PA37.unity
+    guid: ab8d7f19f787f734cb8b935fb34b3c84
+  - enabled: 1
+    path: Assets/Cenas/PA/PA38.unity
+    guid: e6101cff25a7553409944e306ad8e712
+  - enabled: 1
+    path: Assets/Cenas/PA/PA39.unity
+    guid: 001c981695f01fb4581e557212e24887
+  - enabled: 1
+    path: Assets/Cenas/PA/PA40.unity
+    guid: 2efc2a2bcccc9a44eaae5bd4334f2c60
+  - enabled: 1
+    path: Assets/Cenas/PA/PA41.unity
+    guid: 17b32d4f5268b1b4db2f8f50b4bf7d6c
+  - enabled: 1
+    path: Assets/Cenas/PA/PA42.unity
+    guid: 292b514f6f985bf4d9d3c4a439792405
+  - enabled: 1
+    path: Assets/Cenas/PA/PA43.unity
+    guid: b6fbde68e6d7d144780566ba7656b04f
+  - enabled: 1
+    path: Assets/Cenas/PA/PA44.unity
+    guid: 1e9175c87503e754194c05a6f4df6c41
+  - enabled: 1
+    path: Assets/Cenas/PA/PA45.unity
+    guid: 3f80846ae67cfd2409c8aad345fd8c28
+  - enabled: 1
+    path: Assets/Cenas/PA/PA46.unity
+    guid: 033e4c7ae97c6b347aab7f9c91a3f194
+  - enabled: 1
+    path: Assets/Cenas/PA/PA47.unity
+    guid: 70268acb92b85d54c84bc035b4df3565
+  - enabled: 1
+    path: Assets/Cenas/PA/PA48.unity
+    guid: 2e2d5c71dc3d72e48a78d4c434a65a55
+  - enabled: 1
+    path: Assets/Cenas/PB/introPB.unity
+    guid: b4fed6d8841c8d040b4d3fcc9b028de3
+  - enabled: 1
+    path: Assets/Cenas/PB/PB1.unity
+    guid: 646943f81e8e17b43ab515ca2e31fce7
+  - enabled: 1
+    path: Assets/Cenas/PB/PB2.unity
+    guid: 7a0e8801d56c10d4b835e564bfebb4a1
+  - enabled: 1
+    path: Assets/Cenas/PB/PB3.unity
+    guid: 629a97be4084fd847b413a396b8c2e42
+  - enabled: 1
+    path: Assets/Cenas/PB/PB4.unity
+    guid: 1f3b1ed310242734cb31762fee684d6e
+  - enabled: 1
+    path: Assets/Cenas/PB/PB5.unity
+    guid: 285b02c18f8c41d4e8ed86137d02fcc4
+  - enabled: 1
+    path: Assets/Cenas/PB/PB6.unity
+    guid: 056b292915f7eca4f9d2f77942a95d0e
+  - enabled: 1
+    path: Assets/Cenas/PB/PB7.unity
+    guid: 59b2f05b9190048418b893b43ca13037
+  - enabled: 1
+    path: Assets/Cenas/PB/PB8.unity
+    guid: 8003e178eb0abd8469b5a34f94062955
+  - enabled: 1
+    path: Assets/Cenas/PB/PB9.unity
+    guid: 5bb36a3ac70c6c841b0a561eaae6fe93
+  - enabled: 1
+    path: Assets/Cenas/PB/PB10.unity
+    guid: d4eae59c8be5716458d54191c47890f2
+  - enabled: 1
+    path: Assets/Cenas/PB/PB11.unity
+    guid: c37ed5d3ed895274cb8bc2234bda1cec
+  - enabled: 1
+    path: Assets/Cenas/PB/PB12.unity
+    guid: c7902f025609da648864e38d19cca4a3
+  - enabled: 1
+    path: Assets/Cenas/PB/PB13.unity
+    guid: de56fbc930cfa40428548ec4f9c72a71
+  - enabled: 1
+    path: Assets/Cenas/PB/PB14.unity
+    guid: 0e63ea56727eafa42a66701d9eb67749
+  - enabled: 1
+    path: Assets/Cenas/PB/PB15.unity
+    guid: 4dfba35236d57694f868912ad5562132
+  - enabled: 1
+    path: Assets/Cenas/PB/PB16.unity
+    guid: 89d2acb3c588569499d041e887a92d6b
+  - enabled: 1
+    path: Assets/Cenas/PB/PB17.unity
+    guid: 23b0347f80d5e7f4284615f967bdad2c
+  - enabled: 1
+    path: Assets/Cenas/PB/PB18.unity
+    guid: 2970c95e2c2765f4c8706c48da964efb
+  - enabled: 1
+    path: Assets/Cenas/PB/PB19.unity
+    guid: 665a25ad155cbcd499c0036fbab107e2
+  - enabled: 1
+    path: Assets/Cenas/PB/PB20.unity
+    guid: a23b78e4608d0f240b825fc7f83bd11e
+  - enabled: 1
+    path: Assets/Cenas/PB/PB21.unity
+    guid: f85f10aa617de04409dd7fcaae33f1f5
+  - enabled: 1
+    path: Assets/Cenas/PB/PB22.unity
+    guid: 7bf9626facd1ceb4eab2e9df7e73ffcf
+  - enabled: 1
+    path: Assets/Cenas/PB/PB23.unity
+    guid: e7a4a7fb1ad0d534289f8b933eed5a6e
+  - enabled: 1
+    path: Assets/Cenas/PB/PB24.unity
+    guid: 0f5c1c244a8404c4b9b4b40dae9e779d
+  - enabled: 1
+    path: Assets/Cenas/PB/PB25.unity
+    guid: b4f07d577be6d004bb2767043874495f
+  - enabled: 1
+    path: Assets/Cenas/PB/PB26.unity
+    guid: cf18b9587824d3f40be9d8d9d65082f0
+  - enabled: 1
+    path: Assets/Cenas/PC/introPC.unity
+    guid: 7bf28ffe8ce505443a9847f994f684d7
+  - enabled: 1
+    path: Assets/Cenas/PC/PC1.unity
+    guid: 46a8550c051a6c24da3ab3b672c20ba7
+  - enabled: 1
+    path: Assets/Cenas/PC/PC2.unity
+    guid: fc25658d530c0b54b830ea2918122001
+  - enabled: 1
+    path: Assets/Cenas/PC/PC3.unity
+    guid: 72ecc213e8aa8d945b3a523c574d2173
+  - enabled: 1
+    path: Assets/Cenas/PC/PC4.unity
+    guid: 47fe06a32f199724ca877bf65e0e3779
+  - enabled: 1
+    path: Assets/Cenas/PC/PC5.unity
+    guid: ded47e2f538681448a2965fc306a0167
+  - enabled: 1
+    path: Assets/Cenas/PC/PC6.unity
+    guid: 79b945a3df80b37459ea1cc980a116df
+  - enabled: 1
+    path: Assets/Cenas/PC/PC7.unity
+    guid: 56f5697141bf5104193d3d1e2e3f313a
+  - enabled: 1
+    path: Assets/Cenas/PC/PC8.unity
+    guid: 34f534eba67191a4281ff2c3a0f84a14
+  - enabled: 1
+    path: Assets/Cenas/PC/PC9.unity
+    guid: 3c4216c5a71cc8e4eae886443a8ebe71
+  - enabled: 1
+    path: Assets/Cenas/PC/PC10.unity
+    guid: 7c392c83c5f963249a910332c7b10c99
+  - enabled: 1
+    path: Assets/Cenas/PC/PC11.unity
+    guid: 5c14d1a2e1dadf24a9ae88a83687110c
+  - enabled: 1
+    path: Assets/Cenas/PC/PC12.unity
+    guid: 7ae6d9b88d8830b4caf9569b99ad7df0
+  - enabled: 1
+    path: Assets/Cenas/PC/PC13.unity
+    guid: 33f565c068e66eb4a9fe71b6c8c3c870
+  - enabled: 1
+    path: Assets/Cenas/PC/PC14.unity
+    guid: a103ca6b01ff1944d898b0c3a0821342
+  - enabled: 1
+    path: Assets/Cenas/PC/PC15.unity
+    guid: 5544d8409ed23c34b9610bdcd7b86f01
+  - enabled: 1
+    path: Assets/Cenas/PC/PC16.unity
+    guid: b5b292d3130af1943b39400f6f0812ec
+  - enabled: 1
+    path: Assets/Cenas/PC/PC17.unity
+    guid: 9fadc3672c27f8e42977094cdb58f984
+  - enabled: 1
+    path: Assets/Cenas/PC/PC18.unity
+    guid: 8ed6c940a82d8c74995cacb247d71ca9
+  - enabled: 1
+    path: Assets/Cenas/PD/introPD.unity
+    guid: 6b8ce1039a6e0544b95ec0c33749ce7d
+  - enabled: 1
+    path: Assets/Cenas/PD/PD1.unity
+    guid: 454b2ee0bb1c0c84cbcfaaf57dec21fd
+  - enabled: 1
+    path: Assets/Cenas/PD/PD2.unity
+    guid: b91f830de5bae7942ab9f8f8f130e465
+  - enabled: 1
+    path: Assets/Cenas/PD/PD3.unity
+    guid: 6fbb799dffe48c7489d8beb39f78e78e
+  - enabled: 1
+    path: Assets/Cenas/PD/PD4.unity
+    guid: 11f554ed39b34b449a7785f611120492
+  - enabled: 1
+    path: Assets/Cenas/PD/PD5.unity
+    guid: 25e758b65c7865947833c06fa164d127
+  - enabled: 1
+    path: Assets/Cenas/PD/PD6.unity
+    guid: 7135de9a3df2f7c4f83dd08eb515baeb
+  - enabled: 1
+    path: Assets/Cenas/PD/PD7.unity
+    guid: 18820f0918bc80c4dacc19136476674b
+  - enabled: 1
+    path: Assets/Cenas/PD/PD8.unity
+    guid: 37a175479ac55d24fa3a0453733d2dc9
+  - enabled: 1
+    path: Assets/Cenas/PD/PD9.unity
+    guid: 2afd1924e9b323c46ae87b8931c718ce
+  - enabled: 1
+    path: Assets/Cenas/PD/PD10.unity
+    guid: c7d6779660dd8674682cf2216db61836
+  - enabled: 1
+    path: Assets/Cenas/PD/PD11.unity
+    guid: 28b72ada893d70848acc973f93d7d2fd
+  - enabled: 1
+    path: Assets/Cenas/PD/PD12.unity
+    guid: 26eb0900fab4fc64f8e9069a698a484a
+  - enabled: 1
+    path: Assets/Cenas/PD/PD13.unity
+    guid: e2ce46f0092cb2048b58e0f4707d85ba
+  - enabled: 1
+    path: Assets/Cenas/PD/PD14.unity
+    guid: faa5b04dd1e77a845a6e89f2f52e2a81
+  - enabled: 1
+    path: Assets/Cenas/PD/PD15.unity
+    guid: 58f317a6a52db9941a530d6e1c283806
+  - enabled: 1
+    path: Assets/Cenas/PD/PD16.unity
+    guid: e3fe715d13fa7e8419c71272d07a884e
+  - enabled: 1
+    path: Assets/Cenas/PD/PD17.unity
+    guid: cdcaab2c668036645a757bbf52af9337
+  - enabled: 1
+    path: Assets/Cenas/PD/PD18.unity
+    guid: fcecf0b14e7d80b47bfb12bba5fcec3a
+  - enabled: 1
+    path: Assets/Cenas/PE/introPE.unity
+    guid: eab06354760f2b74da0d8d1eaf36e80e
+  - enabled: 1
+    path: Assets/Cenas/PE/PE1.unity
+    guid: 100b75a849af6e846b097d10715bf043
+  - enabled: 1
+    path: Assets/Cenas/PE/PE2.unity
+    guid: fa3ceb4e3f7b0a946ba23c3d159a8d78
+  - enabled: 1
+    path: Assets/Cenas/PE/PE3.unity
+    guid: fd53cdc47e159c24cb75507758f5931f
+  - enabled: 1
+    path: Assets/Cenas/PE/PE4.unity
+    guid: b74d56210ec79dc4bab6ee58ef85b6fc
+  - enabled: 1
+    path: Assets/Cenas/PE/PE5.unity
+    guid: 34ec0aefa01ff16438ca551895223bfd
+  - enabled: 1
+    path: Assets/Cenas/PE/PE6.unity
+    guid: 5d54ce03e957b704e9788f86f0cbec92
+  - enabled: 1
+    path: Assets/Cenas/PE/PE7.unity
+    guid: bd1eadf4a3734e340a2ad30d42843d11
+  - enabled: 1
+    path: Assets/Cenas/PE/PE8.unity
+    guid: c0f307d82096b594c9a816f6bbfb01e0
+  - enabled: 1
+    path: Assets/Cenas/PE/PE9.unity
+    guid: e32c112e4d7962249943d1f990a87ece
+  - enabled: 1
+    path: Assets/Cenas/PE/PE10.unity
+    guid: 70493daa8e487d543b83adb8976aec04
+  - enabled: 1
+    path: Assets/Cenas/PE/PE11.unity
+    guid: 7d9575c8dfcae8745956aed84fa44138
+  - enabled: 1
+    path: Assets/Cenas/PE/PE12.unity
+    guid: 61eb984cf6fbe6b4797fa10dea0ae657
+  - enabled: 1
+    path: Assets/Cenas/PE/PE13.unity
+    guid: e3abcfacd9192ae4591c0086f11a8b9d
+  - enabled: 1
+    path: Assets/Cenas/PE/PE14.unity
+    guid: 5d02e864d8981aa48a7dff10cc51f301
+  - enabled: 1
+    path: Assets/Cenas/PE/PE15.unity
+    guid: 4d23c61160bb9b644833255ef1f012c2
+  - enabled: 1
+    path: Assets/Cenas/PE/PE16.unity
+    guid: 74234910cf93b074a81a5e23cd12db6b
+  - enabled: 1
+    path: Assets/Cenas/PE/PE17.unity
+    guid: f8cd89f218a445745806d954113d767d
+  - enabled: 1
+    path: Assets/Cenas/PE/PE18.unity
+    guid: decd5b478f39f614ebd61fd46168345c
+  - enabled: 1
+    path: Assets/Cenas/PE/PE19.unity
+    guid: 209a9b91ac619b44db6e610ef012c712
+  - enabled: 1
+    path: Assets/Cenas/PE/PE20.unity
+    guid: 307d9bf310a02ee4fada89a6b398ccb7
+  - enabled: 1
+    path: Assets/Cenas/PE/PE21.unity
+    guid: 942384d191c5573419f2461922fdeefb
+  - enabled: 1
+    path: Assets/Cenas/PE/PE22.unity
+    guid: 29d9a93d8069f1f4388c149bfd08f035
+  - enabled: 1
+    path: Assets/Cenas/PE/PE23.unity
+    guid: 0ab05f3830a3a75479cf1d8a8be82bc3
+  - enabled: 1
+    path: Assets/Cenas/PE/PE24.unity
+    guid: 55641237a7ca4424896d5edd3d60b422
+  - enabled: 1
+    path: Assets/Cenas/PE/PE25.unity
+    guid: d1161b0781699774787492f77983699e
+  - enabled: 1
+    path: Assets/Cenas/PE/PE26.unity
+    guid: 9456ce00141363a449124aea7620d71e
+  - enabled: 1
+    path: Assets/Cenas/PE/PE27.unity
+    guid: a6a1c38613abc7242b617916873a781b
+  - enabled: 1
+    path: Assets/Cenas/PE/PE28.unity
+    guid: 28d71222ac698bc4eabd305330053734
+  - enabled: 1
+    path: Assets/Cenas/PE/PE29.unity
+    guid: 5fd6bc2b4b7f59c4f9bcf87a414b9c09
+  - enabled: 1
+    path: Assets/Cenas/PE/PE30.unity
+    guid: d48dccae58d2da04485757ad3ec7f68d
+  - enabled: 1
+    path: Assets/Cenas/PE/PE31.unity
+    guid: ce3c21496649d0546b5b5c6094531544
+  - enabled: 1
+    path: Assets/Cenas/PE/PE32.unity
+    guid: b6f783371e4d6b841b51bc3586166410
+  - enabled: 1
+    path: Assets/Cenas/PE/PE33.unity
+    guid: d9597eb314b5d364f962eb84c65d863e
+  - enabled: 1
+    path: Assets/Cenas/PE/PE34.unity
+    guid: 4b1253a119992964fb235e8c69d76252
+  - enabled: 1
+    path: Assets/Cenas/PE/PE35.unity
+    guid: 71fa733fdfb65ae4b895bb0447781f4d
+  - enabled: 1
+    path: Assets/Cenas/PE/PE36.unity
+    guid: 179b0887219cb624a84899568f93e467
+  - enabled: 1
+    path: Assets/Cenas/PE/PE37.unity
+    guid: b823ef65b57eeef408a8e6718787cf12
+  - enabled: 1
+    path: Assets/Cenas/PE/PE38.unity
+    guid: 1fe41ff6774e1dc46a95074eb99e4503
+  - enabled: 1
+    path: Assets/Cenas/PE/PE39.unity
+    guid: 7b53699571aeb0c49af0951f364f5f02
+  - enabled: 1
+    path: Assets/Cenas/PE/PE40.unity
+    guid: 111603720bb960b49bd2f92b3497ab2c
+  - enabled: 1
+    path: Assets/Cenas/PE/PE41.unity
+    guid: 7f0e63bb8a303394393685fcea5741ef
+  - enabled: 1
+    path: Assets/Cenas/PE/PE42.unity
+    guid: 797a14974008f984daea3f9ca1508cf6
+  - enabled: 1
+    path: Assets/Cenas/PF/introPF.unity
+    guid: bb2f726ddf14c47489d5360727798fc7
+  - enabled: 1
+    path: Assets/Cenas/PF/PF1.unity
+    guid: 78aee262b9e6d3e44beb6d2df55614d9
+  - enabled: 1
+    path: Assets/Cenas/PF/PF2.unity
+    guid: 3d4de8a4563402e42bf4c3429456d9e1
+  - enabled: 1
+    path: Assets/Cenas/PF/PF3.unity
+    guid: 9b99314bb68a0e744b183984eef5e2c8
+  - enabled: 1
+    path: Assets/Cenas/PF/PF4.unity
+    guid: f1c39b330bbf7e84c98a65250c2d19bd
+  - enabled: 1
+    path: Assets/Cenas/PF/PF5.unity
+    guid: ae2ee3e436141904f99652af2eea7b45
+  - enabled: 1
+    path: Assets/Cenas/PF/PF6.unity
+    guid: 5025a15cfcf398f4e862b0edcd7e436f
+  - enabled: 1
+    path: Assets/Cenas/PF/PF7.unity
+    guid: b937ab8cbf5d90744b9ae91cf45a1aba
+  - enabled: 1
+    path: Assets/Cenas/PF/PF8.unity
+    guid: 5845eaac2a1157c4f980cf14e871220d
+  - enabled: 1
+    path: Assets/Cenas/PF/PF9.unity
+    guid: 87f97228c995b5f41a20d4f0bd015e26
+  - enabled: 1
+    path: Assets/Cenas/PF/PF10.unity
+    guid: 7fff9b2da1900714aad8f38290699bcc
+  - enabled: 1
+    path: Assets/Cenas/PF/PF11.unity
+    guid: 99c0a247df442fc4d8313186ea612eed
+  - enabled: 1
+    path: Assets/Cenas/PF/PF12.unity
+    guid: 428787461b783a14cb663f5955203ebc
+  - enabled: 1
+    path: Assets/Cenas/PF/PF13.unity
+    guid: 6d3171ae9a648e448abe0dee13e24417
+  - enabled: 1
+    path: Assets/Cenas/PF/PF14.unity
+    guid: aa8c3d8ab3f723b49925eae210ce1932
+  - enabled: 1
+    path: Assets/Cenas/PF/PF15.unity
+    guid: d5f38f7f80656934d803da417578055c
+  - enabled: 1
+    path: Assets/Cenas/PF/PF16.unity
+    guid: c567e472b50b3214cab5ba06fe8f2fb9
+  - enabled: 1
+    path: Assets/Cenas/PFinal/final.unity
+    guid: a11e6098b79e07842afe3d7fada818d6
+  - enabled: 1
+    path: Assets/Cenas/PG/introPG.unity
+    guid: 8bca1c32fc33fd34d997a573d87667de
+  - enabled: 1
+    path: Assets/Cenas/PG/PG1.unity
+    guid: 7ee5b61f306af204e821bca43245ec51
+  - enabled: 1
+    path: Assets/Cenas/PG/PG2.unity
+    guid: 75fd514a38d5e62408d141e4ac42ecd4
+  - enabled: 1
+    path: Assets/Cenas/PG/PG3.unity
+    guid: c5ccb33deadf27c42ab2a24b8292090c
+  - enabled: 1
+    path: Assets/Cenas/PG/PG4.unity
+    guid: dd3dc84c0492b47419a9b52260f12f8e
+  - enabled: 1
+    path: Assets/Cenas/PG/PG5.unity
+    guid: 72ce64115a995ae49ab2fb76816238ea
+  - enabled: 1
+    path: Assets/Cenas/PG/PG6.unity
+    guid: 73d719891e5d0bc4ca646256f31ca174
+  - enabled: 1
+    path: Assets/Cenas/PG/PG7.unity
+    guid: 8fddbb96c510a8342b1f4df3f5240913
+  - enabled: 1
+    path: Assets/Cenas/PG/PG8.unity
+    guid: 05a373b3c10c56344a2ba589bc10d3c1
+  - enabled: 1
+    path: Assets/Cenas/PG/PG9.unity
+    guid: c83e277a19f71db4090370c37761efa9
+  - enabled: 1
+    path: Assets/Cenas/PG/PG10.unity
+    guid: 8801db952160beb4c988b82e218509ec
+  - enabled: 1
+    path: Assets/Cenas/PG/PG11.unity
+    guid: 6bdef9db283f80c4ca4978f9bc855ae6
+  - enabled: 1
+    path: Assets/Cenas/PG/PG12.unity
+    guid: f0f3b2b1208769242837512286f6d424
+  - enabled: 1
+    path: Assets/Cenas/PG/PG13.unity
+    guid: 907ac0eaa2ae70d439a31c6e8014d709
+  - enabled: 1
+    path: Assets/Cenas/PG/PG14.unity
+    guid: c45460268836f31498df6c89b16154a3
+  - enabled: 1
+    path: Assets/Cenas/PG/PG15.unity
+    guid: 4e32a10f1bc2d7c40b2517fb2d47295c
+  - enabled: 1
+    path: Assets/Cenas/PG/PG16.unity
+    guid: abc4dcdb579f2f84eb2884199234144c
+  - enabled: 1
+    path: Assets/Cenas/PH/introPH.unity
+    guid: 9613d30f93b022c4ca777ecda44ef6ef
+  - enabled: 1
+    path: Assets/Cenas/PH/PH1.unity
+    guid: f7d78a0df582a27469963213f6d1ea7a
+  - enabled: 1
+    path: Assets/Cenas/PH/PH2.unity
+    guid: 578e777c802b32f4a82276367e24ba49
+  - enabled: 1
+    path: Assets/Cenas/PH/PH3.unity
+    guid: 2892d17abd9522c4a8f8f641979dce79
+  - enabled: 1
+    path: Assets/Cenas/PH/PH4.unity
+    guid: ac019a4ed9457504b8eda6123ad3abb9
+  - enabled: 1
+    path: Assets/Cenas/PH/PH5.unity
+    guid: 27aea8fd189d36744a95ec7c7f3bcbb2
+  - enabled: 1
+    path: Assets/Cenas/PH/PH6.unity
+    guid: 39cccdd6c633a7d439139ba6a1bdeb66
+  - enabled: 1
+    path: Assets/Cenas/PH/PH7.unity
+    guid: e7c44246c37f57b4095325e633b8df54
+  - enabled: 1
+    path: Assets/Cenas/PH/PH8.unity
+    guid: b8088750ee4acb240bc294b770d23612
+  - enabled: 1
+    path: Assets/Cenas/PH/PH9.unity
+    guid: 53234596c0a929b4fb579fd9ca159876
+  - enabled: 1
+    path: Assets/Cenas/PH/PH10.unity
+    guid: f7358aa42a3f3f0498add0162ef83ee5
+  - enabled: 1
+    path: Assets/Cenas/PH/PH11.unity
+    guid: 20497e1ca14db98468c198404f1b9344
+  - enabled: 1
+    path: Assets/Cenas/PH/PH12.unity
+    guid: a12fcf1b078aa6243a61c9f913ab31f5
+  - enabled: 1
+    path: Assets/Cenas/PH/PH13.unity
+    guid: f02edecb5621bbf4b8a5d9360330fd83
+  - enabled: 1
+    path: Assets/Cenas/PH/PH14.unity
+    guid: 10c268095913e6644bd9883c1da36035
+  - enabled: 1
+    path: Assets/Cenas/PH/PH15.unity
+    guid: a684f2118c1363540aea552ab2ac1b66
+  - enabled: 1
+    path: Assets/Cenas/PH/PH16.unity
+    guid: 15ade7bcdcb20614e9e1f7ab13cfbf55
+  - enabled: 1
+    path: Assets/Cenas/PH/PH17.unity
+    guid: 2700f45f01164e54a901537fa8568cad
+  - enabled: 1
+    path: Assets/Cenas/PH/PH18.unity
+    guid: bf02787ebaf8a2648896c4a9d83912c9
+  - enabled: 1
+    path: Assets/Cenas/PH/PH19.unity
+    guid: 6b401f197b5450d4a849bf6e5eb3902a
+  - enabled: 1
+    path: Assets/Cenas/PH/PH20.unity
+    guid: ecab124e6052abb4ca443337b66bdb24
+  - enabled: 1
+    path: Assets/Cenas/PH/PH21.unity
+    guid: 75cdec0c63d452f418439aa8e76a7ea9
+  - enabled: 1
+    path: Assets/Cenas/PH/PH22.unity
+    guid: 1c936d9b9e39f734baabe5743896ee75
+  - enabled: 1
+    path: Assets/Cenas/PH/PH23.unity
+    guid: 31d873273501e9645a0675070ae118e5
+  - enabled: 1
+    path: Assets/Cenas/PH/PH24.unity
+    guid: f492c2f9845e2c246a6820ad6fb5621e
+  - enabled: 1
+    path: Assets/Cenas/PH/PH25.unity
+    guid: 5b6697a666136ca468734a134362ec95
+  - enabled: 1
+    path: Assets/Cenas/PH/PH26.unity
+    guid: e815e39a24ab7214c8fff3befa698430
+  - enabled: 1
+    path: Assets/Cenas/PH/PH27.unity
+    guid: e3f8ec51404d12043a688640bc58c2b4
+  - enabled: 1
+    path: Assets/Cenas/PH/PH28.unity
+    guid: cd83d50e40cac2d49b4275709e21bfc4
+  - enabled: 1
+    path: Assets/Cenas/PH/PH29.unity
+    guid: 23b223fd4733c4e49871ea1f48cd36e7
+  - enabled: 1
+    path: Assets/Cenas/PH/PH30.unity
+    guid: 587224af62125484f82374343b6d6eec
+  - enabled: 1
+    path: Assets/Cenas/PH/PH31.unity
+    guid: 8fa95b2cfedbfb747b0c27656b20640f
+  - enabled: 1
+    path: Assets/Cenas/PH/PH32.unity
+    guid: ae8fe303b9638b246aef43a5fd035358
+  - enabled: 1
+    path: Assets/Cenas/PH/PH33.unity
+    guid: b67b83744647b0c459b712d61f911eb7
+  - enabled: 1
+    path: Assets/Cenas/PH/PH34.unity
+    guid: 05eee12a55a22354e92b5a1f4371c117
+  - enabled: 1
+    path: Assets/Cenas/PH/PH35.unity
+    guid: 2a7d228077ba00145837301c04295ab5
+  - enabled: 1
+    path: Assets/Cenas/PH/PH36.unity
+    guid: 9664cebe139b809498dd60cf31e556a6
+  - enabled: 1
+    path: Assets/Cenas/PH/PH37.unity
+    guid: 1bb45c2298762f64ba3a1e9d9e3189d9
+  - enabled: 1
+    path: Assets/Cenas/PH/PH38.unity
+    guid: 811eaf4e5339e6d47b92100c5f7c661a
+  - enabled: 1
+    path: Assets/Cenas/PH/PH39.unity
+    guid: 00d28960f2aa7ab4f96a409caf21e46d
+  - enabled: 1
+    path: Assets/Cenas/PH/PH40.unity
+    guid: a549806728718774786a52e648624d92
+  - enabled: 1
+    path: Assets/Cenas/PH/PH41.unity
+    guid: e00d0d26ceb77614ea0f81f9328d4e5b
+  - enabled: 1
+    path: Assets/Cenas/PH/PH42.unity
+    guid: 6b2dede2fc65e4f44b1c093c0293b409
+  - enabled: 1
+    path: Assets/Cenas/PH/PH43.unity
+    guid: e4e99c7cc4756dd4fbd2034efea84fee
+  - enabled: 1
+    path: Assets/Cenas/PH/PH44.unity
+    guid: 09802ff8abc7cad45b6893d1f2f8d638
+  - enabled: 1
+    path: Assets/Cenas/PH/PH45.unity
+    guid: 1e3a44bc27b999a4387910916f659d27
+  - enabled: 1
+    path: Assets/Cenas/PH/PH46.unity
+    guid: 17e80b4398bdace479b810f236f71aea
+  - enabled: 1
+    path: Assets/Cenas/PH/PH47.unity
+    guid: d7069e5ce2e645c4589d1368f20cca4a
+  - enabled: 1
+    path: Assets/Cenas/PH/PH48.unity
+    guid: 0f1a41c49c705da41a0489c974024ac2
+  - enabled: 1
+    path: Assets/Cenas/PH/PH49.unity
+    guid: 8a803f6e7e3a4464e960365c7ea87e6b
+  - enabled: 1
+    path: Assets/Cenas/PH/PH50.unity
+    guid: 226683b56e040a84389cfb1d3cced745
+  - enabled: 1
+    path: Assets/Cenas/PH/PH51.unity
+    guid: fdc0ce0501ad30d43a3bb152f18c75e5
+  - enabled: 1
+    path: Assets/Cenas/PH/PH52.unity
+    guid: 052df95c659255641a995aeefe579194
+  - enabled: 1
+    path: Assets/Cenas/PH/PH53.unity
+    guid: 7efcd9a1f5b66dd40b0744d2cba305f9
+  - enabled: 1
+    path: Assets/Cenas/PH/PH54.unity
+    guid: 7817a334877231540be24a5d07449a5f
+  - enabled: 1
+    path: Assets/Cenas/PH/PH55.unity
+    guid: bbfe12d080d046d47b1a07787e053b7c
+  - enabled: 1
+    path: Assets/Cenas/PH/PH56.unity
+    guid: a4c6e817f9127fc48ba5bde0a2ab79c5
+  - enabled: 1
+    path: Assets/Cenas/PH/PH57.unity
+    guid: 7e173ba9046442f48ade079827ae6bbd
+  - enabled: 1
+    path: Assets/Cenas/PH/PH58.unity
+    guid: 541f6bf7c3f4eeb4b99b68bc1ca02c56
+  - enabled: 1
+    path: Assets/Cenas/PH/PH59.unity
+    guid: d0e6d0bf275a96c4e9a1b3b7310476da
+  - enabled: 1
+    path: Assets/Cenas/PH/PH60.unity
+    guid: 8ad44410ff2bd264db83a9d60a06361d
+  - enabled: 1
+    path: Assets/Cenas/PH/PH61.unity
+    guid: f493533c65c922c44a6ffa0a73dd3e48
+  - enabled: 1
+    path: Assets/Cenas/PI/PI.unity
+    guid: 6d66dc80ef08aef4994d49891650c585
+  - enabled: 1
+    path: Assets/Cenas/PJ/introPJ.unity
+    guid: 64b2131690403d445a0d5f68a40c190b
+  - enabled: 1
+    path: Assets/Cenas/PJ/PJ1.unity
+    guid: 3d1f0fa05692b6b4689126131d5677e4
+  - enabled: 1
+    path: Assets/Cenas/PJ/PJ2.unity
+    guid: e4b17cae6fffce54eb69f3cddf5c578b
+  - enabled: 1
+    path: Assets/Cenas/PK/introPK.unity
+    guid: b2307263be9687a4fb20f8f441afad9c
+  - enabled: 1
+    path: Assets/Cenas/PK/PK1.unity
+    guid: 82e3b652319c9794fb81d99f7d7a752d
+  - enabled: 1
+    path: Assets/Cenas/PK/PK2.unity
+    guid: a3d32c73e5b07494ca242d42a9631f52
+  - enabled: 1
+    path: Assets/Cenas/PK/PK3.unity
+    guid: ef44c76398c1bb549bbe3e5ea91efc98
+  - enabled: 1
+    path: Assets/Cenas/PK/PK4.unity
+    guid: a88a1cc17a2d90a40bcaba37bf8d3cd1
+  - enabled: 1
+    path: Assets/Cenas/PK/PK5.unity
+    guid: fb4abd7576457364881ce943c8880009
+  - enabled: 1
+    path: Assets/Cenas/PK/PK6.unity
+    guid: 227e4fa43721b014fa51e5bcbe5bbe19
+  - enabled: 1
+    path: Assets/Cenas/PL/introPL.unity
+    guid: d1f1fd7fc7e23df4da1b949899cad6f7
+  - enabled: 1
+    path: Assets/Cenas/PL/PL1.unity
+    guid: f75ee3d5579d37c4b95978edeea3c65c
+  - enabled: 1
+    path: Assets/Cenas/PL/PL2.unity
+    guid: aa14fa95ce9977d4ca7513beba257920
+  - enabled: 1
+    path: Assets/Cenas/PL/PL3.unity
+    guid: b9fae1fb0d977a244a5ef2d332e1df21
+  - enabled: 1
+    path: Assets/Cenas/PL/PL4.unity
+    guid: 8f5d583380bdcd64da533551b9d60e7b
+  - enabled: 1
+    path: Assets/Cenas/PL/PL5.unity
+    guid: 0688e6d1ad2af0646bb5601153868521
+  - enabled: 1
+    path: Assets/Cenas/PL/PL6.unity
+    guid: 669c510ddf1196f4d84882ac91ad4935
+  - enabled: 1
+    path: Assets/Cenas/PL/PL7.unity
+    guid: eb7e5ee2d6535c94fa7236894f5bc55f
+  - enabled: 1
+    path: Assets/Cenas/PL/PL8.unity
+    guid: cf388f9eb45c23946b2a4d662c2372ef
+  - enabled: 1
+    path: Assets/Cenas/PL/PL9.unity
+    guid: 8c400517e675c6c4a91397ac76eab555
+  - enabled: 1
+    path: Assets/Cenas/PL/PL10.unity
+    guid: 0967526635c0fc24fac51c57c3a269a7
+  - enabled: 1
+    path: Assets/Cenas/PL/PL11.unity
+    guid: 631a4ab25f54f9d428da1636ddd57ed3
+  - enabled: 1
+    path: Assets/Cenas/PM/PM1.unity
+    guid: 159c5e0f9a654fb439912f7fa9294903
+  m_configObjects: {}
