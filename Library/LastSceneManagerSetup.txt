@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Cenas/PFinal/final.unity
+- path: Assets/Cenas/PI/PI.unity
   isLoaded: 1
   isActive: 1

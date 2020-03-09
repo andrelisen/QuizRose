@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-C:/Users/andre/Desktop/Quiz V3/QuizRose.exe
+C:/Users/andre/Desktop/Quiz Windows/QuizRose.exe
 SceneListBegin?
 Assets/Cenas/Introducoes/titulo.unity
 Assets/Cenas/Introducoes/apresentaAvatar.unity
